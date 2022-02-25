@@ -1,0 +1,80 @@
+@media (max-width:688px){
+#banner{
+    height:670px;
+}
+.container{
+    width:330px;
+    margin:0 auto;
+}
+.navbar{
+    width:100%;
+}
+.icon-image{
+    width: 24px;
+    height:24px;
+    display:block;
+}
+nav ul{
+    display: none;
+}
+.nava-image{
+    width:90px;
+    height:32px;
+}
+nav img{
+    padding-left:12px;
+}
+.nava-image a{
+    font-size: 12px;
+}
+.banner-highlight{
+    display: grid;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.hightlight h2{
+    font-size: 36px;
+    line-height: 50px;
+
+}
+.high-shot img{
+    width:330px;
+    height:260px;
+    margin-top:40px;
+}
+.players{
+    grid-template-columns: repeat(1,1fr);
+}
+
+.captain{
+    flex-direction: column;
+    margin:0 auto;
+}
+.amazing-football h2{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    padding-bottom: 20px;
+}
+.run-messi img{
+    width:328px;
+    height:248px;
+    margin-top: 50px;
+}
+.fotsal{
+    width: 275px;
+    height:63px; 
+ }
+
+
+
+
+
+
+
+
+
+
+
+}
